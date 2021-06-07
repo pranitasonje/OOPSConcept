@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\OOPSConcept\AbstractClass\obj\Debug\AbstractClass.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\OOPSConcept\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\OOPSConcept\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\ADMIN\source\repos\OOPSConcept\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\ADMIN\source\repos\OOPSConcept\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\ADMIN\source\repos\OOPSConcept\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\ADMIN\source\repos\OOPSConcept\AbstractClass\obj\Debug\AbstractClass.pdb

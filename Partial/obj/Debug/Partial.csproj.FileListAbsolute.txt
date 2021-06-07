@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\OOPSConcept\Partial\bin\Debug\Partial.exe.config
+C:\Users\ADMIN\source\repos\OOPSConcept\Partial\bin\Debug\Partial.exe
+C:\Users\ADMIN\source\repos\OOPSConcept\Partial\bin\Debug\Partial.pdb
+C:\Users\ADMIN\source\repos\OOPSConcept\Partial\obj\Debug\Partial.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\OOPSConcept\Partial\obj\Debug\Partial.exe
+C:\Users\ADMIN\source\repos\OOPSConcept\Partial\obj\Debug\Partial.pdb
+C:\Users\ADMIN\source\repos\OOPSConcept\Partial\obj\Debug\Partial.csprojAssemblyReference.cache
